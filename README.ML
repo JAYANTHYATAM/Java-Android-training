@@ -5,3 +5,5 @@
 # Compiling the code in terminal
 # Understanding difference between abstract class and abstraction
 # Recap of the previoius topics
+# Keen understanding of loops 
+# Programming using scanner class
